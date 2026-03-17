@@ -190,7 +190,7 @@ export default function Hero() {
                 >
                     <div className="relative w-full h-full rounded-2xl overflow-hidden border-2 border-[var(--color-border-accent)] shadow-[0_0_40px_rgba(0,240,255,0.15)]">
                         <Image
-                            src="/bigsnow.png"
+                            src="/Bigsnow.PNG"
                             alt="Bigsnow"
                             fill
                             className="object-cover"

@@ -38,7 +38,7 @@ export default function Navbar() {
                     <a href="#" className="flex items-center gap-2 group">
                         <div className="relative w-10 h-10 rounded-lg overflow-hidden bg-gradient-to-br from-[var(--color-accent)] to-[var(--color-accent-secondary)] flex items-center justify-center group-hover:shadow-[0_0_20px_rgba(0,240,255,0.4)] transition-shadow">
                             <Image
-                                src="/bigsnow.png"
+                                src="/Bigsnow.PNG"
                                 alt="Bigsnow logo"
                                 fill
                                 className="object-contain p-1"

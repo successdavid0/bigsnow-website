@@ -60,7 +60,7 @@ export default function Footer() {
                     <div className="flex items-center gap-3">
                         <div className="relative w-8 h-8 rounded-lg overflow-hidden bg-gradient-to-br from-[var(--color-accent)] to-[var(--color-accent-secondary)] flex items-center justify-center">
                             <Image
-                                src="/bigsnow.png"
+                                src="/Bigsnow.PNG"
                                 alt="Bigsnow logo"
                                 fill
                                 className="object-contain p-0.5"

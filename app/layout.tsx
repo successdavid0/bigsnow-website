@@ -18,7 +18,7 @@ const dmSans = DM_Sans({
 
 export const metadata: Metadata = {
   icons: {
-    icon: "/bigsnow.png",
+    icon: "/Bigsnow.PNG",
   },
   title: "Bigsnow | Web3 Full-Stack Developer & DApp Builder",
   description:
