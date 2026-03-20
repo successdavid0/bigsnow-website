@@ -6,28 +6,28 @@ const testimonials = [
     {
         quote:
             "Bigsnow is one of the most versatile Web3 builders I've worked with. From smart contract development to community strategy — they deliver at every level.",
-        name: "Alex Chen",
+        name: "Nico",
         title: "Co-Founder",
-        project: "NexusSwap",
-        avatar: "AC",
+        project: "Ironchain",
+        avatar: "N",
         color: "#00f0ff",
     },
     {
         quote:
             "Their ability to bridge the gap between tech and business is rare. Bigsnow helped us secure critical partnerships that accelerated our growth by 10x.",
-        name: "Sarah Kim",
-        title: "Head of Growth",
-        project: "MetaDAO Collective",
-        avatar: "SK",
+        name: "Dan",
+        title: "CEO",
+        project: "Deep3 labs ",
+        avatar: "D",
         color: "#7b61ff",
     },
     {
         quote:
             "The smart contracts Bigsnow built for us were clean, gas-optimized, and passed audit with zero critical findings. A true professional.",
-        name: "Marcus Rivera",
+        name: "Mark",
         title: "CTO",
-        project: "ChainVault Protocol",
-        avatar: "MR",
+        project: "Woof Hype",
+        avatar: "M",
         color: "#00ff88",
     },
 ];

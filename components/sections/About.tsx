@@ -26,9 +26,9 @@ const skills = [
 ];
 
 const stats = [
-    { value: 4, label: "Years Experience", suffix: "+" },
-    { value: 30, label: "Projects Completed", suffix: "+" },
-    { value: 8, label: "Chains Worked On", suffix: "+" },
+    { value: 5, label: "Years Experience", suffix: "+" },
+    { value: 12, label: "Projects Completed", suffix: "+" },
+    { value: 4, label: "Chains Worked On", suffix: "+" },
 ];
 
 export default function About() {
