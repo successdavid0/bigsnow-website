@@ -13,7 +13,7 @@ const projects = [
         description: "Decentralized yield aggregator protocol on BNB Chain",
         color: "#00f0ff",
         initials: "IL",
-        image: "/projects/IMG_5425.JPG",
+        image: "/projects/IMG_5425.jpg",
         accomplishments: [
             "sinked collaborations with 5 projects in less than 1 month leading to the advancement of there platform",
             "Api integrations with major projects",
@@ -27,7 +27,7 @@ const projects = [
         description: "Cross-chain DAO governance and treasury platform",
         color: "#7b61ff",
         initials: "WH",
-        image: "/projects/IMG_7735.JPG",
+        image: "/projects/IMG_7735.jpg",
         accomplishments: [
             "Grew community from 500 to 15,000+ members in less than 1 month",
             "Secured 6 ecosystem partnerships",
@@ -37,12 +37,12 @@ const projects = [
         link: "#",
     },
     {
-        name: "Deep3 Labs ",
+        name: "NexusSwap DEX",
         role: "Full-Stack Developer & Advisor",
         description: "AMM DEX with concentrated liquidity on Arbitrum",
         color: "#00ff88",
         initials: "NS",
-        image: "/projects/IMG_8070.JPG",
+        image: "/projects/nexusswap.svg",
         accomplishments: [
             "Developed core swap engine and liquidity pools",
             "Optimized gas costs by 40% through batch operations",
@@ -55,8 +55,8 @@ const projects = [
         role: "Ambassador & Community builder",
         description: "massively growing community of 1000+ members",
         color: "#ff6b6b",
-        initials: "CC",
-        image: "/projects/cryptocanvas.svg",
+        initials: "",
+        image: "/projects/IMG_8067.JPG",
         accomplishments: [
             "Built a community of 1000+ members in less than 2 month",
             "Launched a new NFT collection",
