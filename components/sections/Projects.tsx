@@ -55,7 +55,7 @@ const projects = [
         role: "Ambassador & Community builder",
         description: "massively growing community of 1000+ members",
         color: "#ff6b6b",
-        initials: "",
+        initials: "BB",
         image: "/projects/IMG_8067.JPG",
         accomplishments: [
             "Built a community of 1000+ members in less than 2 month",
